@@ -100,8 +100,9 @@ body{
 
 .story-list a.active{
     background-color:blanchedalmondg;
-    background-image: url(/images/arrow.png);
-    background-size: cover;
+    background-image: url(/images/arrow-bg.jpg);
+    background-size: 100% 120%;
+    background-position: center;
     
 }
 
