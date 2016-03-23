@@ -101,8 +101,8 @@ body{
 .story-list a.active{
     background-color:blanchedalmondg;
     background-image: url(/images/arrow-bg.jpg);
-    background-size: 100% 120%;
-    background-position: center;
+    background-size: 110% 120%;
+    background-position:left;
     
 }
 
@@ -110,7 +110,7 @@ body{
 .story-body{
     background-color: bisque;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .story-body .title{
     text-align: center;
